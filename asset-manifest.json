@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Notes-app-Frontend/static/css/main.089fd692.css",
+    "main.js": "/Notes-app-Frontend/static/js/main.b74bde39.js",
+    "static/js/453.72df3946.chunk.js": "/Notes-app-Frontend/static/js/453.72df3946.chunk.js",
+    "static/media/Dodge2.jpg": "/Notes-app-Frontend/static/media/Dodge2.5568c2639f7ffa213645.jpg",
+    "index.html": "/Notes-app-Frontend/index.html",
+    "main.089fd692.css.map": "/Notes-app-Frontend/static/css/main.089fd692.css.map",
+    "main.b74bde39.js.map": "/Notes-app-Frontend/static/js/main.b74bde39.js.map",
+    "453.72df3946.chunk.js.map": "/Notes-app-Frontend/static/js/453.72df3946.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.089fd692.css",
+    "static/js/main.b74bde39.js"
+  ]
+}
