@@ -1,0 +1,101 @@
+.notes {
+    color: white;
+    margin: 20px 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.notes h1 {
+    margin: 20px;
+}
+
+.intNotes {
+    width: 300px;
+    height: 150px;
+    background-color: #ff000042;
+    border-radius: 20px;
+    backdrop-filter: blur(5px);
+    overflow: hidden;
+    border: 1px solid #ffffff70;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.intNotes textarea {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: large;
+}
+
+.intNotes textarea::-webkit-input-placeholder {
+    color: #ffffffbd;
+}
+
+.intNotes button {
+    padding: 5px 25px;
+    border: 1px solid #ffffff70;
+    background-color:#ffffff3b;
+    color: white;
+    border-radius: 20px 0 0 0;
+    outline: none;
+    transition: all 0.2s ease;
+}
+
+.intNotes button:hover{
+    color: black;
+    background: #ffffff;
+}
+
+
+.note {
+    flex: 300px;
+    max-width: 500px;
+    height: 150px;
+    background-color: #ff000042;
+    border-radius: 20px;
+    backdrop-filter: blur(5px);
+    overflow: hidden;
+    border: 1px solid #ffffff70;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-content: space-between;
+}
+
+.note .btn {
+    border-radius: 20px 0 0 0;
+    border: 1px solid #ffffff70;
+    overflow: hidden;
+}
+
+.note .btn button {
+    background-color:#ffffff3b;
+    color: white;
+    padding: 5px 25px;
+    border: none;
+    outline: none;
+    transition: all 0.2s ease;
+}
+
+.note .btn button:hover{
+    color: black;
+        background: #ffffff;
+}
+
+.note p {
+    width: 100%;
+    max-height: 100%;
+    padding: 10px;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: large;
+}
